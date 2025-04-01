@@ -1,4 +1,4 @@
-import Navbar from '../../components/Navbar';
+import Navbar from '@/components/Navbar';  // Updated to absolute path
 
 export default function About() {
   return (
